@@ -1,0 +1,101 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\HK5\\Đồ Án\\DoAnWeb\\DoAnWeb\\wwwroot\\images\\avatar\\admin.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\admin.jpg"
+    },
+    {
+      "Id": "E:\\HK5\\Đồ Án\\DoAnWeb\\DoAnWeb\\wwwroot\\images\\avatar\\customer.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\customer.jpg"
+    },
+    {
+      "Id": "E:\\HK5\\Đồ Án\\DoAnWeb\\DoAnWeb\\wwwroot\\images\\avatar\\dhphuoc.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\dhphuoc.jpg"
+    },
+    {
+      "Id": "E:\\HK5\\Đồ Án\\DoAnWeb\\DoAnWeb\\wwwroot\\images\\avatar\\john.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\john.jpg"
+    },
+    {
+      "Id": "E:\\HK5\\Đồ Án\\DoAnWeb\\DoAnWeb\\wwwroot\\images\\avatar\\longvic.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\longvic.jpg"
+    },
+    {
+      "Id": "E:\\HK5\\Đồ Án\\DoAnWeb\\DoAnWeb\\wwwroot\\images\\product\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\1.jpg"
+    },
+    {
+      "Id": "E:\\HK5\\Đồ Án\\DoAnWeb\\DoAnWeb\\wwwroot\\images\\product\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\10.jpg"
+    },
+    {
+      "Id": "E:\\HK5\\Đồ Án\\DoAnWeb\\DoAnWeb\\wwwroot\\images\\product\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\11.jpg"
+    },
+    {
+      "Id": "E:\\HK5\\Đồ Án\\DoAnWeb\\DoAnWeb\\wwwroot\\images\\product\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\12.jpg"
+    },
+    {
+      "Id": "E:\\HK5\\Đồ Án\\DoAnWeb\\DoAnWeb\\wwwroot\\images\\product\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\2.jpg"
+    },
+    {
+      "Id": "E:\\HK5\\Đồ Án\\DoAnWeb\\DoAnWeb\\wwwroot\\images\\product\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\3.jpg"
+    },
+    {
+      "Id": "E:\\HK5\\Đồ Án\\DoAnWeb\\DoAnWeb\\wwwroot\\images\\product\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\4.jpg"
+    },
+    {
+      "Id": "E:\\HK5\\Đồ Án\\DoAnWeb\\DoAnWeb\\wwwroot\\images\\product\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\5.jpg"
+    },
+    {
+      "Id": "E:\\HK5\\Đồ Án\\DoAnWeb\\DoAnWeb\\wwwroot\\images\\product\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\6.jpg"
+    },
+    {
+      "Id": "E:\\HK5\\Đồ Án\\DoAnWeb\\DoAnWeb\\wwwroot\\images\\product\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\7.jpg"
+    },
+    {
+      "Id": "E:\\HK5\\Đồ Án\\DoAnWeb\\DoAnWeb\\wwwroot\\images\\product\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\8.jpg"
+    },
+    {
+      "Id": "E:\\HK5\\Đồ Án\\DoAnWeb\\DoAnWeb\\wwwroot\\images\\product\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\9.jpg"
+    },
+    {
+      "Id": "E:\\HK5\\Đồ Án\\DoAnWeb\\DoAnWeb\\wwwroot\\images\\slide-1.jpg",
+      "PackagePath": "staticwebassets\\images\\slide-1.jpg"
+    },
+    {
+      "Id": "E:\\HK5\\Đồ Án\\DoAnWeb\\DoAnWeb\\wwwroot\\images\\slide-2.jpg",
+      "PackagePath": "staticwebassets\\images\\slide-2.jpg"
+    },
+    {
+      "Id": "E:\\HK5\\Đồ Án\\DoAnWeb\\DoAnWeb\\wwwroot\\images\\slide-3.jpg",
+      "PackagePath": "staticwebassets\\images\\slide-3.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DoAnWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DoAnWeb.props",
+      "PackagePath": "build\\DoAnWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DoAnWeb.props",
+      "PackagePath": "buildMultiTargeting\\DoAnWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DoAnWeb.props",
+      "PackagePath": "buildTransitive\\DoAnWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
