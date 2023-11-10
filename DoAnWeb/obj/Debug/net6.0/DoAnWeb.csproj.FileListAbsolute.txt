@@ -254,3 +254,4 @@ E:\HK5\Đồ Án\DoAnWeb\DoAnWeb\obj\Debug\net6.0\DoAnWeb.pdb
 E:\HK5\Đồ Án\DoAnWeb\DoAnWeb\obj\Debug\net6.0\DoAnWeb.genruntimeconfig.cache
 E:\HK5\Đồ Án\DoAnWeb\DoAnWeb\obj\Debug\net6.0\ref\DoAnWeb.dll
 E:\HK5\Đồ Án\DoAnWeb\DoAnWeb\bin\Debug\net6.0\DoAnWeb.staticwebassets.runtime.json
+E:\HK5\Đồ Án\DoAnWeb\DoAnWeb\obj\Debug\net6.0\DoAnWeb.sourcelink.json

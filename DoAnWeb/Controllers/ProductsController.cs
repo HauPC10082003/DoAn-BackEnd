@@ -7,11 +7,13 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using DoAnWeb.Data;
 using DoAnWeb.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace DoAnWeb.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class ProductsController : ControllerBase
     {
         private readonly DoAnWebContext _context;
