@@ -15,7 +15,7 @@ namespace DoAnWeb.Models
 
         public string Name { get; set; }
 
-        public string Description { get; set; }
+        public string Author { get; set; }
 
         [DefaultValue(0)]
         public int Price { get; set; }
