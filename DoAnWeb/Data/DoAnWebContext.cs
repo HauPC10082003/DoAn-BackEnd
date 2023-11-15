@@ -23,5 +23,28 @@ namespace DoAnWeb.Data
         public DbSet<Invoice> Invoices { get; set; } = default!;
         public DbSet<InvoiceDetail> InvoiceDetails { get; set; } = default!;
         public DbSet<ProductType> ProductTypes { get; set; } = default!;
+
+        public DbSet<Comment> Comments { get; set; } = default!;
+
+        public DbSet<Favorite> Favorites { get; set; } = default!;
+
+        public DbSet<HistorySearch> HistorySearches { get; set; } = default!;
+
+        public DbSet<Images> Images { get; set; } = default!;
+
+        public DbSet<ProductReviews> ProductReviews { get; set; } = default!;
+
+
+        public DbSet<Combo> Combos { get; set; } = default!;
+
+        public DbSet<ComboBooks> ComboBooks { get; set; } = default!;
+
+
+
+
+
+
+
+
     }
 }

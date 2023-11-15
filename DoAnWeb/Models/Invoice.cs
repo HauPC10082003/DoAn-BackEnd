@@ -30,13 +30,17 @@ namespace DoAnWeb.Models
         [DefaultValue(0)]
         public int Total { get; set; }
 
-        [DefaultValue(true)]
-        public bool Status { get; set; }
+        
+        public int StatusInvoiceId { get; set; }
+
+        [ForeignKey("StatusInvoiceId")]
+        public StatusInvoice StatusInvoice { get; set; }
+
 
         public Invoice()
         {
             Total = 0;
-            Status = true;
+            StatusInvoiceId = 0;
         }
     }
 }

@@ -23,17 +23,19 @@ namespace DoAnWeb.Models
         [DefaultValue(0)]
         public int Stock { get; set; }
 
-        public String Content { get; set; }
+        public string ContentBook { get; set; }
 
         public int ProductTypeId { get; set; }
 
         // Reference navigation property cho khóa ngoại đến ProductType
         public ProductType ProductType { get; set; }
 
-        public string Image { get; set; }
+        public double Star { get; set; }
 
         [DefaultValue(true)]
         public bool Status { get; set; }
+
+        public string linkDowLoadEbook { get; set; }
 
         public Product()
         {
